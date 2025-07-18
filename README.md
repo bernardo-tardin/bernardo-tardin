@@ -2,7 +2,7 @@
 
 **`Master’s student in Biomedical Engineering with a specialization in Medical Informatics`**
 
-I'm a Junior Software Developer and a Master's student in Biomedical Engineering. My experience covers key technologies like Python, Django, SQL, and Java. Throughout my studies, I've built a range of projects, from web platforms and distributed systems to machine learning models. I'm eager to apply these skills to create efficient and impactful solutions in health or other industries.
+I'm a Junior Software Developer and a Master's student in Biomedical Engineering. My experience covers key technologies like Python, Django, SQL, and Java. Throughout my studies, I've built a range of projects—from web platforms and distributed systems to machine learning models—and am currently developing my Master's dissertation on a web platform that optimizes access to inpatient clinical data, featuring an automated PDF-based contingency system. I'm eager to apply these skills to create efficient and impactful solutions in health or other industries.
 
 ### 🤖 Languages and Tools
 

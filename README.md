@@ -1,4 +1,4 @@
-# 👋 Bernardo Moraes
+# 🏎️ Bernardo Moraes
 **`Biomedical Engineer building at the intersection of ML and real-world data systems`**
 
 MSc in Biomedical Engineering (Medical Informatics) with a background in backend development and a growing focus on Machine Learning. I build end-to-end — from 
@@ -36,4 +36,4 @@ My dissertation was a full clinical data platform (Django · Docker · Redis · 
 
 ### 📌 Featured
 - 🧠 [`machine_learning_portfolio`](https://github.com/bernardo-tardin/machine_learning_portfolio) — ML projects from kNN to Transfer Learning
-- 🏥 Clinical Data Management Platform — MSc dissertation (Django · Docker · Redis)
+- 🏥 [`ward-data-app`](https://github.com/bernardo-tardin/ward-data-app) — MSc dissertation (Django · Docker · Redis)
